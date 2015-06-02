@@ -34,6 +34,6 @@ while (1):
 
 try:
 	average = sum / counter;
-	print sum, counter, average
+	print int(sum), counter, average
 except:
 	print "Nothing to do here, Goodbye!!!"
